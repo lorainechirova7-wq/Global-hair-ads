@@ -1,0 +1,13 @@
+{
+  "name": "Global Ads Studio",
+  "short_name": "Global Ads",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fffaf7",
+  "theme_color": "#000000",
+  "icons": [{
+    "src": "https://cdn-icons-png.flaticon.com/512/1057/1057105.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
